@@ -22,7 +22,7 @@ Pull down a copy of the repository and navigate to the files location, run using
   
 In command prompt navigate to the files location on your PC, then run the command node index.js, and follow the prompts to fill in your readme file.
 <br>  See this video for visual instruction.
-<br> VIDEO GOES  HERE
+
   
 ## Contributing
   
