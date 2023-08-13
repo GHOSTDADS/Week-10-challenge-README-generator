@@ -22,6 +22,7 @@ Pull down a copy of the repository and navigate to the files location, run using
   
 In command prompt navigate to the files location on your PC, then run the command node index.js, and follow the prompts to fill in your readme file.
 <br>  See this video for visual instruction.
+[Video_Walkthrough.webm](https://github.com/GHOSTDADS/Week-10-challenge-README-generator/assets/128158433/8525ffda-0702-480a-9806-ebfb78d7aaa7)
 
   
 ## Contributing
